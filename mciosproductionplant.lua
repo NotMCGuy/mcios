@@ -1,6 +1,5 @@
 --[[
 Production Manager (Three-Monitor Edition)
-By CCLua Ai
 
 Features:
  - Storage manager (vault, chests, tanks)
@@ -827,3 +826,4 @@ parallel.waitForAny(
   productionLoop,
   returnersLoop
 )
+
