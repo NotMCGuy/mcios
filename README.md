@@ -18,7 +18,7 @@ I will be expanding features however, here is a run-down of some of the most use
 
 - **Banking:** We have a fully fleshed out banking suite with price elasticities, account tracking, creditting, debiting, logging and wider ranged usage with Trading terminals and Client terminals to keep data safe.
 
-- **Floating Toolbar:** The production and energy managers make factories far more efficient and streamlined. With easy setups, editting, control and better visuals, it is easy to setup a fully functioning factory using these control programs!
+- **Production:** The production and energy managers make factories far more efficient and streamlined. With easy setups, editting, control and better visuals, it is easy to setup a fully functioning factory using these control programs!
 
 - **Security:** Secure your base with our security suite. With a wide range of uses, you can control all aspects of your base and keep things secure and safe.
 
